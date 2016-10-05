@@ -7,8 +7,9 @@
 # pyramid problem theoretically.
 #======================================================================
 
+
 import math
-import search
+import search   # https://github.com/hobson/aima/tree/master/aima
 
 
 """ The tiles are arranged in such a way (the pyramid is rotated
