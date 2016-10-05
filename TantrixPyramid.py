@@ -7,6 +7,8 @@
 # pyramid problem theoretically.
 
 #author: yuanxu
+
+# If you find bugs below, please send them to me at yuanxu_xu@hotmail.com .
 #======================================================================
 
 
