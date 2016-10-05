@@ -5,7 +5,7 @@
 # The result and goal_test design are really fascinating.
 # I modify it to the general form, which should solve all the Trantrix 
 # pyramid problem theoretically.
-
+#======================================================================
 
 import math
 import search
